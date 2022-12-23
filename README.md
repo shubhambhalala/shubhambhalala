@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhambhalala&label=Profile%20views&color=0e75b6&style=flat" alt="shubhambhalala" /> </p>
-<!--
+<!-- 
 **shubhambhalala/shubhambhalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
 ### Connect
 
 <a href="mailto:shubhambhalala@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
