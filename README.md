@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <td valign="middle">
-      <span>Graphics</span>
+      <span>Visualizations</span>
     </td>
     <td valign="middle">
       <div float="left">
@@ -78,7 +78,7 @@
         <img src="https://img.shields.io/badge/podman-%23892CA0.svg?&style=flat-square&logo=podman&logoColor=white" />
         <img src="https://img.shields.io/badge/terraform-%23623CE4.svg?&style=flat-square&logo=terraform&logoColor=white" />
         <img src="https://img.shields.io/badge/ansible-%23EE0000.svg?&style=flat-square&logo=ansible&logoColor=white" />
-        <img src="https://img.shields.io/badge/Openshift-EE0000?&style=flat-square&logo=Red Hat Open Shift&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Openshift-EE0000?&style=flat-square&logo=RedHatOpenShift&logoColor=white"/>
       </div>
     </td>
   </tr>
