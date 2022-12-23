@@ -32,7 +32,7 @@
         <img src="https://img.shields.io/badge/Scipy-%238CAAE6.svg?&style=flat-square&logo=scipy&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tidyverse-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
-        <img src="https://img.shields.io/badge/spaCy-%09A3D5.svg?&style=flat-square&logo=spaCy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/spaCy-09A3D5?&style=flat-square&logo=spaCy"/>
       </div>
     </td>
   </tr>
