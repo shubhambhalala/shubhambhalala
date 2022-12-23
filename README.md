@@ -33,6 +33,7 @@
         <img src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tidyverse-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
         <img src="https://img.shields.io/badge/spaCy-09A3D5?&style=flat-square&logo=spaCy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Qiskit-6929C4?&style=flat-square&logo=Qiskit&logoColor=white"/>
       </div>
     </td>
   </tr>
@@ -45,8 +46,6 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node-%23339933.svg?&style=flat-square&logo=nodedotjs&logoColor=white"/>
       </div>
     </td>
   </tr>
@@ -56,10 +55,10 @@
     </td>
     <td valign="middle">
       <div float="left">
-        <img src="https://img.shields.io/badge/AdobeCC-%23FF0000.svg?&style=flat-square&logo=adobe&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Plotly-3F4F75?&style=flat-square&logo=Plotly&logoColor=white"/>
         <img src="https://img.shields.io/badge/ggplot2-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
         <img src="https://img.shields.io/badge/matplotlib-%23F37626.svg?&style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WebGL-%23990000.svg?&style=flat-square&logo=webgl&logoColor=white"/>
+        <img src="https://img.shields.io/badge/seaborn-%23990000.svg?&style=flat-square&logo=python&logoColor=white"/>
       </div>
     </td>
   </tr>
