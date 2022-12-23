@@ -39,6 +39,24 @@
   </tr>
   <tr>
     <td valign="middle">
+      <span>DevOps</span>
+    </td>
+    <td valign="middle">
+      <div float="left">
+        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?&style=flat-square&logo=jenkins&logoColor=white" />
+        <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?&style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/podman-%23892CA0.svg?&style=flat-square&logo=podman&logoColor=white" />
+        <img src="https://img.shields.io/badge/terraform-%23623CE4.svg?&style=flat-square&logo=terraform&logoColor=white" />
+        <img src="https://img.shields.io/badge/ansible-%23EE0000.svg?&style=flat-square&logo=ansible&logoColor=white" />
+        <img src="https://img.shields.io/badge/Openshift-EE0000?&style=flat-square&logo=RedHatOpenShift&logoColor=white"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
       <span>Web Dev</span>
     </td>
     <td valign="middle">
@@ -64,24 +82,7 @@
       </div>
     </td>
   </tr>
-  <tr>
-    <td valign="middle">
-      <span>DevOps</span>
-    </td>
-    <td valign="middle">
-      <div float="left">
-        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
-        <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?&style=flat-square&logo=jenkins&logoColor=white" />
-        <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?&style=flat-square&logo=kubernetes&logoColor=white" />
-        <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/podman-%23892CA0.svg?&style=flat-square&logo=podman&logoColor=white" />
-        <img src="https://img.shields.io/badge/terraform-%23623CE4.svg?&style=flat-square&logo=terraform&logoColor=white" />
-        <img src="https://img.shields.io/badge/ansible-%23EE0000.svg?&style=flat-square&logo=ansible&logoColor=white" />
-        <img src="https://img.shields.io/badge/Openshift-EE0000?&style=flat-square&logo=RedHatOpenShift&logoColor=white"/>
-      </div>
-    </td>
-  </tr>
+  
   
 </table>
 
