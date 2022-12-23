@@ -57,6 +57,19 @@
   </tr>
   <tr>
     <td valign="middle">
+      <span>Cloud Services</span>
+    </td>
+    <td valign="middle">
+      <div float="left">
+        <img src="https://img.shields.io/badge/amazon%20aws-%23232F3E.svg?&style=flat-square&logo=amazon%20aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/google%20cloud-%234285F4.svg?&style=flat-square&logo=google%20cloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/microsoft%20azure-%230089D6.svg?&style=flat-square&logo=microsoft%20azure&logoColor=white" />
+        <img src="https://img.shields.io/badge/openstack-%23ED1944.svg?&style=flat-square&logo=openstack&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
       <span>Web Dev</span>
     </td>
     <td valign="middle">
