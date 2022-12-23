@@ -11,11 +11,11 @@
       <div float="left">
         <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/R-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
-        <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" />
+        <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=flat-square&logo=c&logoColor=black" />
         <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=flat-square&logo=cplusplus&logoColor=white"/>
         <img src="https://img.shields.io/badge/SQL-%234169E1.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/gnu%20bash-%234EAA25.svg?&style=for-the-badge&logo=gnu%20bash&logoColor=white" />
-        <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/gnu%20bash-%234EAA25.svg?&style=flat-square&logo=gnu%20bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=flat-square&logo=dart&logoColor=white" />
       </div>
     </td>
   </tr>
