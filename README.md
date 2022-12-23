@@ -70,6 +70,21 @@
   </tr>
   <tr>
     <td valign="middle">
+      <span>Big Data</span>
+    </td>
+    <td valign="middle">
+      <div float="left">
+        <img src="https://img.shields.io/badge/apache%20spark-%23E25A1C.svg?&style=for-the-badge&logo=apache%20spark&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Hadoop-66CCFF?&style=flat-square&logo=ApacheHadoop&logoColor=white"/>
+        <img src="https://img.shields.io/badge/elasticsearch-%23005571.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white" />
+        <img src="https://img.shields.io/badge/logstash-%23005571.svg?&style=for-the-badge&logo=logstash&logoColor=white" />
+        <img src="https://img.shields.io/badge/kibana-%23005571.svg?&style=for-the-badge&logo=kibana&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
       <span>Web Dev</span>
     </td>
     <td valign="middle">
