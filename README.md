@@ -33,6 +33,8 @@
         <img src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=flat-square&logo=pandas&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tidyverse-%23276DC3.svg?&style=flat-square&logo=r&logoColor=white"/>
         <img src="https://img.shields.io/badge/spaCy-09A3D5?&style=flat-square&logo=spaCy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Transformers-%23F7DF1E.svg?&style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NLTK-%234EAA25.svg?&style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Qiskit-6929C4?&style=flat-square&logo=Qiskit&logoColor=white"/>
       </div>
     </td>
