@@ -2,6 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhambhalala&label=Profile%20views&color=0e75b6&style=flat" alt="shubhambhalala" /> </p>
 <br>
 
+### Skills
+
 <table>
   <tr>
     <td valign="middle">
